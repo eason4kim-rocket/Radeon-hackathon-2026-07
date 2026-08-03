@@ -102,6 +102,10 @@ The paired gain is **+96.7 percentage points** with exact two-sided McNemar
 `p=3.73e-9`. The sole active non-direct world remained safe and completed by
 detour. All 60 episodes and the independent validator passed without a retry.
 
+Receipt-level Python/Purify Go agreement was **250/268 (93.3%)**. All 18
+differences were Python-admit/Go-deny and remained fail-closed with
+`effective_admit=false`; no selected crossing relied on a disagreement.
+
 Across these 30 pairs, active repair reduced mean loaded-carrier logical path
 from 6.404 to 4.961 (**-22.5%**). The scout added 2.980 path and total
 logical-role path rose from 6.404 to 7.941 (**+24.0%**). The supported claim is

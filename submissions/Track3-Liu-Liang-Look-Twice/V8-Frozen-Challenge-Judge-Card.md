@@ -1,5 +1,8 @@
 # V8 Frozen Challenge — Judge Card
 
+**Entrant / team:** Liu Liang (solo) · GitHub `@eason4kim-rocket` · Track 3
+Physical AI
+
 **Status:** independently verified `PASS` · 30 paired worlds · 60/60 valid
 episodes · no retry, replacement seed, early stop, model change, calibration
 change, or threshold change.

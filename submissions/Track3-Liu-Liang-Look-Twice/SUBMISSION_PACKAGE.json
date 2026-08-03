@@ -89,14 +89,14 @@
     {
       "path": "README.md",
       "role": "official submission overview",
-      "size_bytes": 11052,
-      "sha256": "73892fc97c4c176320605aa611eec5908c19bc25c74950eef942c12a63442ca4"
+      "size_bytes": 11266,
+      "sha256": "902ed82d2fed8d97c5ce569a7e252224a0c93bdfd651bc66933b0b2b6f83d489"
     },
     {
       "path": "V8-Frozen-Challenge-Judge-Card.md",
       "role": "one-page judge entrypoint",
-      "size_bytes": 5648,
-      "sha256": "b40ef682e61720da21289e6e97e366c7c20d6fc067e5b192181db0787cfbd47e"
+      "size_bytes": 5739,
+      "sha256": "cffb1e4374f0cbfbbb0a62d8f382bad698cd7ca39464845857431e14ada8563e"
     },
     {
       "path": "evidence/LOCKED_TEST_REPORT.public.json",
